@@ -3,10 +3,20 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {ShoppingCartProvider} from './context/ShoppingCart';
+import {AllProductsProvider} from './context/AllProducts';
+import {ShowHideCartContextProvider} from './context/ShowCartContext';
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ShowHideCartContextProvider>
+      <AllProductsProvider>
+        <ShoppingCartProvider>
+          <App />
+        </ShoppingCartProvider>
+      </AllProductsProvider>
+    </ShowHideCartContextProvider>  
   </React.StrictMode>,
   document.getElementById('root')
 );
