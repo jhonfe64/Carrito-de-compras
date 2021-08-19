@@ -1,7 +1,7 @@
 /*
 
 El contexto AlLproduts almacena la lista completa de produtos despues de hacer el fetch, en /components/Results
-el estado allProducts se inicia como un array vacio, al actualizarse recibe un array de objetos
+el estado allProducts se inicia como un array vacio, al actualizarse recibe un array de objetos jjjjjj
 
 */
 
