@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Esta aplicaciPon creada en react js, permite a los usuarios agregar y eleminar productos de un carrito de compras
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
