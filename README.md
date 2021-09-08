@@ -1,21 +1,30 @@
-# Carrito de compras
+# Hotels app
 
-This aplication built in react allows users to add products to the shopping cart and increse the quantity
+This web application built in react.js allows users adding products to the shopping cart. 
 
-### This project use the followig technologies:
+### Includes the following node packages
 
-1. Reacts js
-2. Styled components
-
-
-### To clone the repository and running the project please follow this instructions:
-
-- Type on vsc console: git clone https://github.com/jhonfe64/Carrito-de-compras.git
-- to run the project type npm start
+styled components
 
 
+### To clone the repository
 
- 
-![](https://github.com/jhonfe64/HotelsApp/blob/master/carrito1.png?raw=true)
+on vsc console type: 
+
+- git clone https://github.com/jhonfe64/HotelsApp.git
+- Use npm i to install all dependences 
+
+
+### To run the project
+
+type on vsc console => npm start
+
+## check in codesandbox https://codesandbox.io/s/github/jhonfe64/HotelsApp
+## check the app deployed in vercel https://hotelsapp-beige.vercel.app
+
+
+
+
+![](https://github.com/jhonfe64/HotelsApp/blob/master/hotel1.jpg?raw=true)
 ###
-![](https://github.com/jhonfe64/HotelsApp/blob/master/carrito2.png?raw=true)
+![](https://github.com/jhonfe64/HotelsApp/blob/master/hotel2.jpg?raw=true)
