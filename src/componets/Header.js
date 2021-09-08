@@ -28,7 +28,6 @@ function Header() {
                 <div className="container">
                     <div className="img-container">
                         <h2>Cart</h2>
-                        {/* <img src="./images/logo.svg" alt="logo superfuds" /> */}
                     </div>
                     <div className="searchingBar">
                         <form>

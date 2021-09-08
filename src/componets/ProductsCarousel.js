@@ -76,7 +76,7 @@ const ProductsCarousel = ({products}) => {
     <ProductCardCarouselElement>
     <div className="container">
     <div className="seeMore">
-      <h3>Nuevo en SuperFuds</h3><h5>Ver más</h5>
+      <h3>Lo nuevo</h3><h5>Ver más</h5>
     </div>
       <div>
         <Slide {...properties}>
