@@ -10,8 +10,8 @@ This aplication built in react allows users to add products to the shopping cart
 
 ### To clone the repository and running the project please follow this instructions:
 
-- Type on vsc console: git clone https://github.com/jhonfe64/postcastChannel.git
-- Open the index file
+- Type on vsc console: git clone https://github.com/jhonfe64/Carrito-de-compras.git
+- to run the project type npm start
 
 
 
