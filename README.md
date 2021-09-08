@@ -16,4 +16,6 @@ This aplication built in react allows users to add products to the shopping cart
 
 
  
-![](https://github.com/jhonfe64/postcastChannel/blob/master/podcast.png?raw=true)
+![](https://github.com/jhonfe64/postcastChannel/blob/master/carrito1.png?raw=true)
+ 
+![](https://github.com/jhonfe64/postcastChannel/blob/master/carrito2.png?raw=true)
