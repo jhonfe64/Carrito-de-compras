@@ -4,8 +4,8 @@ This web application built in react.js allows users adding products to the shopp
 
 ### Includes the following node packages
 
--styled components
--Font awesome
+- styled components
+- Font awesome
 
 ### To clone the repository
 
