@@ -11,7 +11,7 @@ styled components
 
 on vsc console type: 
 
-- git clone https://github.com/jhonfe64/HotelsApp.git
+- git clone https://github.com/jhonfe64/Carrito-de-compras.git
 - Use npm i to install all dependences 
 
 
@@ -19,12 +19,10 @@ on vsc console type:
 
 type on vsc console => npm start
 
-## check in codesandbox https://codesandbox.io/s/github/jhonfe64/HotelsApp
-## check the app deployed in vercel https://hotelsapp-beige.vercel.app
+## check the app deployed in vercel https://carrito-de-compras-olive.vercel.app
 
 
 
-
-![](https://github.com/jhonfe64/HotelsApp/blob/master/hotel1.jpg?raw=true)
+![](https://github.com/jhonfe64/Carrito-de-compras/blob/master/carrito1.png?raw=true)
 ###
-![](https://github.com/jhonfe64/HotelsApp/blob/master/hotel2.jpg?raw=true)
+![](https://github.com/jhonfe64/Carrito-de-compras/blob/master/carrito2.png?raw=true)
